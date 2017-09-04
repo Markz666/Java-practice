@@ -1,0 +1,55 @@
+What is the cloud? Where is the cloud? Are we in the cloud now? These are all questions you've probably heard or even asked yourself. The term "cloud computing" is everywhere.
+
+In the simplest terms, cloud computing means storing and accessing data and programs over the Internet instead of your computer's hard drive. The cloud is just a metaphor for the Internet. It goes back to the days of flowcharts and presentations that would represent the gigantic server-farm infrastructure of the Internet as nothing but a puffy, white cumulus cloud, accepting connections and doling out information as it floats.
+
+What cloud computing is not about is your hard drive. When you store data on or run programs from the hard drive, that's called local storage and computing. Everything you need is physically close to you, which means accessing your data is fast and easy, for that one computer, or others on the local network. Working off your hard drive is how the computer industry functioned for decades; some would argue it's still superior to cloud computing, for reasons I'll explain shortly.
+
+The cloud is also not about having a dedicated network attached storage (NAS) hardware or server in residence. Storing data on a home or office network does not count as utilizing the cloud. (However, some NAS will let you remotely access things over the Internet, and there's at least one brand from Western Digital named "My Cloud," just to keep things confusing.)
+
+For it to be considered "cloud computing," you need to access your data or your programs over the Internet, or at the very least, have that data synced with other information over the Web. In a big business, you may know all there is to know about what's on the other side of the connection; as an individual user, you may never have any idea what kind of massive data processing is happening on the other end. The end result is the same: with an online connection, cloud computing can be done anywhere, anytime.
+
+Let's be clear here. We're talking about cloud computing as it impacts individual consumers—those of us who sit back at home or in small-to-medium offices and use the Internet on a regular basis.
+
+There is an entirely different "cloud" when it comes to business. Some businesses choose to implement Software-as-a-Service (SaaS), where the business subscribes to an application it accesses over the Internet. (Think Salesforce.com.) There's also Platform-as-a-Service (PaaS), where a business can create its own custom applications for use by all in the company. And don't forget the mighty Infrastructure-as-a-Service (IaaS), where players like Amazon, Microsoft, Google, and Rackspace provide a backbone that can be "rented out" by other companies. (For example, Netflix provides services to you because it's a customer of the cloud services at Amazon.)
+
+Of course, cloud computing is big business: The market generated $100 billion a year in 2012, which could be $127 billion by 2017 and $500 billion by 2020.
+
+The lines between local computing and cloud computing sometimes get very, very blurry. That's because the cloud is part of almost everything on our computers these days. You can easily have a local piece of software (for instance, Microsoft Office 365) that utilizes a form of cloud computing for storage (Microsoft OneDrive).
+
+That said, Microsoft also offers a set of Web-based apps, Office Online, that are Internet-only versions of Word, Excel, PowerPoint, and OneNote accessed via your Web browser without installing anything. That makes them a version of cloud computing (Web-based=cloud).
+
+Some other major examples of cloud computing you're probably using:
+
+Google Drive: This is a pure cloud computing service, with all the storage found online so it can work with the cloud apps: Google Docs, Google Sheets, and Google Slides. Drive is also available on more than just desktop computers; you can use it on tablets like the iPad or on smartphones, and there are separate apps for Docs and Sheets, as well. In fact, most of Google's services could be considered cloud computing: Gmail, Google Calendar, Google Maps, and so on.
+
+Apple iCloud: Apple's cloud service is primarily used for online storage, backup, and synchronization of your mail, contacts, calendar, and more. All the data you need is available to you on your iOS, Mac OS, or Windows device (Windows users have to install the iCloud control panel). Naturally, Apple won't be outdone by rivals: it offers cloud-based versions of its word processor (Pages), spreadsheet (Numbers), and presentations (Keynote) for use by any iCloud subscriber. iCloud is also the place iPhone users go to utilize the Find My iPhone feature that's all important when the handset goes missing.
+
+Amazon Cloud Drive: Storage at the big retailer is mainly for music, preferably MP3s that you purchase from Amazon, and images—if you have Amazon Prime, you get unlimited image storage. Amazon Cloud Drive also holds anything you buy for the Kindle. It's essentially storage for anything digital you'd buy from Amazon, baked into all its products and services.
+
+Hybrid services like Box, Dropbox, and SugarSync all say they work in the cloud because they store a synced version of your files online, but they also sync those files with local storage. Synchronization is a cornerstone of the cloud computing experience, even if you do access the file locally.
+
+Likewise, it's considered cloud computing if you have a community of people with separate devices that need the same data synced, be it for work collaboration projects or just to keep the family in sync. For more, check out the The Best Cloud Storage and File-Syncing Services for 2016.
+
+Right now, the primary example of a device that is completely cloud-centric is the Chromebook. These are laptops that have just enough local storage and power to run the Chrome OS, which essentially turns the Google Chrome Web browser into an operating system. With a Chromebook, most everything you do is online: apps, media, and storage are all in the cloud.
+
+Or you can try a  ChromeBit, a smaller-than-a-candy-bar drive that turns any display with an HDMI port into a usable computer running Chrome OS.
+
+Of course, you may be wondering what happens if you're somewhere without a connection and you need to access your data. This is currently one of the biggest complaints about Chrome OS, although its offline functionality (that is, non-cloud abilities) are expanding.
+
+The Chromebook isn't the first product to try this approach. So-called "dumb terminals" that lack local storage and connect to a local server or mainframe go back decades. The first Internet-only product attempts included the old NIC (New Internet Computer), the Netpliance iOpener, and the disastrous 3Com Ergo Audrey (pictured). You could argue they all debuted well before their time—dial-up speeds of the 1990s had training wheels compared to the accelerated broadband Internet connections of today. That's why many would argue that cloud computing works at all: the connection to the Internet is as fast as the connection to the hard drive. (At least it is for some of us.) 
+
+In a 2013 edition of his feature What if?, xkcd-cartoonist (and former NASA roboticist) Randall Monroe tried to answer the question of "When—if ever—will the bandwidth of the Internet surpass that of FedEx?" The question was posed because no matter how great your broadband connection, it's still cheaper to send a package of hundreds of gigabytes of data via Fedex's "sneakernet" of planes and trucks than it is to try and send it over the Internet. (The answer, Monroe concluded, is the year 2040.)
+
+Cory Doctorow over at boingboing took Monroe's answer as "an implicit critique of cloud computing." To him, the speed and cost of local storage easily outstrips using a wide-area network connection controlled by a telecom company (your ISP).
+
+That's the rub. The ISPs, telcos, and media companies control your access. Putting all your faith in the cloud means you're also putting all your faith in continued, unfettered access. You might get this level of access, but it'll cost you. And it will continue to cost more and more as companies find ways to make you pay by doing things like metering your service: the more bandwidth you use, the more it costs.
+
+Steve WozniakMaybe you trust those corporations. That's fine, but there are plenty of other arguments against going into the cloud whole hog. Apple co-founder Steve Wozniak decried cloud computing in 2012, saying: "I think it's going to be horrendous. I think there are going to be a lot of horrible problems in the next five years."
+
+In part, that comes from the potential for crashes. When there are problems at a company like Amazon, which provides cloud storage services to big name companies like Netflix and Pinterest, it can take out all those services (as happened in the summer of 2012). In 2014, outages afflicted Dropbox, Gmail, Basecamp, Adobe, Evernote, iCloud, and Microsoft; in 2015 the outtages hit Apple, Verizon, Microsoft, AOL, Level 3, and Google. Microsoft had another this year. The problems typically last for just hours.
+
+Wozniak was concerned more about the intellectual property issues. Who owns the data you store online? Is it you or the company storing it? Consider how many times there's been widespread controversy over the changing terms of service for companies like Facebook and Instagram—which are definitely cloud services—regarding what they get to do with your photos. There's also a difference between data you upload, and data you create in the cloud itself—a provider could have a strong claim on the latter. Ownership is a relevant factor to be concerned about.
+
+After all, there's no central body governing use of the cloud for storage and services. The Institute of Electrical and Electronics Engineers (IEEE) is trying. It created an IEEE Cloud Computing Initiative in 2011 to establish standards for use, especially for the business sector. The Supreme Court ruling against Aereo could have told us a lot about copyright of files in the cloud... but the court side-stepped the issue to keep cloud computing status quo.
+
+Cloud computing—like so much about the Internet—is a little bit like the Wild West, where the rules are made up as you go, and you hope for the best.
